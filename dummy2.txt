@@ -1,2 +1,4 @@
 dummy.txt  dummy2.txt  filename.txt  GeneoNotepad.txt  notepad.txt
 hello textadded
+
+edit 1
